@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "traffic_light[0]",
+					"strict" : false
+				},
+				{
+					"name" : "traffic_light[1]",
+					"strict" : false
+				},
+				{
+					"name" : "traffic_light[2]",
+					"strict" : false
+				},
+				{
+					"name" : "pedestrian_crossing",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "pedestrians_waiting",
+					"strict" : false
+				},
+				{
+					"name" : "hospital_vehicles",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
