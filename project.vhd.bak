@@ -1,0 +1,19 @@
+library ieee;
+use iee.std_logic_1164.all;
+
+entity project is
+port(
+	A:in std_logic;
+	F:out std_logic
+	);
+end project;
+------------
+
+architecture dataflow of project is
+
+begin
+
+F<=not A;
+
+end dataflow;
+
