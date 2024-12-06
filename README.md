@@ -1,4 +1,4 @@
-# Traffic-Light-Controller-VHDL-
+
 # Traffic Light Controller Using VHDL
 
 This project demonstrates the design and implementation of a traffic light controller using VHDL programming. The system prioritizes vehicles on a hospital road over pedestrians waiting at a crossing, ensuring safe and efficient traffic flow.
